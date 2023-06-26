@@ -1,0 +1,7 @@
+langchain
+openai
+beautifulsoup4
+chromadb 
+pymupdf 
+tiktoken
+pypdf
